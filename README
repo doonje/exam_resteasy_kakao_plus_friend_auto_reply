@@ -1,0 +1,11 @@
+# Sample RESTEasy - KakaoTalk 플러스친구 자동응답 JAVA버전.
+
+### 플러스친구 자동응답 API 적용.
+> \- keyboard(입장)
+> \- message(메시지)
+> \- friend(추가/삭제)
+> \- chat room(퇴장)
+
+### 관련 모듈 추가.
+
+### Slack WebHook 모듈 추가.
