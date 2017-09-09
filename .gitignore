@@ -76,10 +76,5 @@ Temporary Items
 .apdisk
 
 .DS_Store
-.gitignore
 .idea/
-PlusFriend_AutoReply_SandBox.iml
-gae.properties
 out/
-src/
-web/
